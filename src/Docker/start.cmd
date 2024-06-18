@@ -1,0 +1,1 @@
+docker-compose -p newtestgen180624 up -d

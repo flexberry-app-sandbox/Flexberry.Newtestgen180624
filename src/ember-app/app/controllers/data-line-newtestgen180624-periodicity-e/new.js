@@ -1,0 +1,4 @@
+import DataLineNewtestgen180624PeriodicityEController from '../data-line-newtestgen180624-periodicity-e';
+
+var DataLineNewtestgen180624PeriodicityENewController = DataLineNewtestgen180624PeriodicityEController;
+export default DataLineNewtestgen180624PeriodicityENewController;

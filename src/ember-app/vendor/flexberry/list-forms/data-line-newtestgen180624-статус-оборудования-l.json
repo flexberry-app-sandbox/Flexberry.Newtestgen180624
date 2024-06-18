@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-newtestgen180624-статус-оборудования-e",
+  "editForm": "data-line-newtestgen180624-статус-оборудования-e",
+  "external": false,
+  "caption": "Статус оборудования",
+  "name": "DataLineNewtestgen180624СтатусОборудованияL",
+  "className": "СтатусОборудованияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "equipment-status",
+      "modelProjection": "СтатусОборудованияL"
+    }
+  ]
+}

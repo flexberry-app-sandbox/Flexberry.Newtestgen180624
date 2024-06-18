@@ -1,0 +1,4 @@
+import DataLineNewtestgen180624ТипОборудованияEController from '../data-line-newtestgen180624-тип-оборудования-e';
+
+var DataLineNewtestgen180624ТипОборудованияENewController = DataLineNewtestgen180624ТипОборудованияEController;
+export default DataLineNewtestgen180624ТипОборудованияENewController;

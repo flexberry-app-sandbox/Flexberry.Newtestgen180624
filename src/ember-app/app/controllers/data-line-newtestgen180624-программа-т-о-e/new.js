@@ -1,0 +1,4 @@
+import DataLineNewtestgen180624ПрограммаТОEController from '../data-line-newtestgen180624-программа-т-о-e';
+
+var DataLineNewtestgen180624ПрограммаТОENewController = DataLineNewtestgen180624ПрограммаТОEController;
+export default DataLineNewtestgen180624ПрограммаТОENewController;

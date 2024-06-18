@@ -1,0 +1,4 @@
+import DataLineNewtestgen180624ОрганизацияEController from '../data-line-newtestgen180624-организация-e';
+
+var DataLineNewtestgen180624ОрганизацияENewController = DataLineNewtestgen180624ОрганизацияEController;
+export default DataLineNewtestgen180624ОрганизацияENewController;

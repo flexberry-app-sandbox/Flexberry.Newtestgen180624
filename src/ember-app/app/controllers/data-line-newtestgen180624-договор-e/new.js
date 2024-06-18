@@ -1,0 +1,4 @@
+import DataLineNewtestgen180624ДоговорEController from '../data-line-newtestgen180624-договор-e';
+
+var DataLineNewtestgen180624ДоговорENewController = DataLineNewtestgen180624ДоговорEController;
+export default DataLineNewtestgen180624ДоговорENewController;

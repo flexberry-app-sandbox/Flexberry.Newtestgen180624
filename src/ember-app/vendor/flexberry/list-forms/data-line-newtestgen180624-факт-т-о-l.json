@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-newtestgen180624-факт-т-о-e",
+  "editForm": "data-line-newtestgen180624-факт-т-о-e",
+  "external": false,
+  "caption": "Факт ТО",
+  "name": "DataLineNewtestgen180624ФактТОL",
+  "className": "ФактТОL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "fact-of-the-maintenance",
+      "modelProjection": "ФактТОL"
+    }
+  ]
+}

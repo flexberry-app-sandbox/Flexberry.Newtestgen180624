@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-newtestgen180624-организация-e",
+  "editForm": "data-line-newtestgen180624-организация-e",
+  "external": false,
+  "caption": "Организация",
+  "name": "DataLineNewtestgen180624ОрганизацияL",
+  "className": "ОрганизацияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "organization",
+      "modelProjection": "ОрганизацияL"
+    }
+  ]
+}

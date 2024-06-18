@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-newtestgen180624-договор-e",
+  "editForm": "data-line-newtestgen180624-договор-e",
+  "external": false,
+  "caption": "Договор",
+  "name": "DataLineNewtestgen180624ДоговорL",
+  "className": "ДоговорL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "contract",
+      "modelProjection": "ДоговорL"
+    }
+  ]
+}

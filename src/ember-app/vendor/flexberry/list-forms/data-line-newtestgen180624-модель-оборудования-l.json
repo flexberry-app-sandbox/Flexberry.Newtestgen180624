@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-newtestgen180624-модель-оборудования-e",
+  "editForm": "data-line-newtestgen180624-модель-оборудования-e",
+  "external": false,
+  "caption": "Модель оборудования",
+  "name": "DataLineNewtestgen180624МодельОборудованияL",
+  "className": "МодельОборудованияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "equipment-model",
+      "modelProjection": "МодельОборудованияL"
+    }
+  ]
+}
